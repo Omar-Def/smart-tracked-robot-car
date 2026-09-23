@@ -6,7 +6,6 @@ An advanced tracked robot platform powered by an **Arduino Uno** and **ESP32**, 
 
 ## 📸 Overview & Features
 
-## 📸 Overview & Features
 
 ![Robot View 1](https://github.com/user-attachments/assets/7419ca5e-7989-40ee-b362-5d957c55eadb)
 
