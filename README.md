@@ -5,14 +5,14 @@ An advanced tracked robot platform powered by an **Arduino Uno** and **ESP32**, 
 ---
 
 ## 📸 Overview & Features
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/172807da-5fb6-4ee8-a07c-3d45b2d55b27" />
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f5b5dbbf-1cb1-4ed0-84b9-f63ff3943fd1" />
+### Project Photos
+![Robot Top View](https://github.com/user-attachments/assets/b71c1c3d-4931-4114-9ed5-48b4ddc515a4)
 
- 
+![Robot Front Camera View](https://github.com/user-attachments/assets/a4b186c8-8747-4c6f-8717-d23d4286218d)
 
-https://github.com/user-attachments/assets/6dc956ba-997f-4334-8fbc-23d59862bc2e
-
+### Demo Video
+https://github.com/user-attachments/assets/872ac5d8-5d94-49a6-8da2-7cbcc0ddf8a3
 
 - **Tracked Chassis (Tank Drive):** High-traction dual-track movement system for versatile terrain navigation.
 - **Dual Processing Architecture:**
